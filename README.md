@@ -60,12 +60,14 @@
 
 ---
 
+
 ### 📌 Highlighted Projects
 
-* 🏬 **Kasir Lamongan** — Point of Sale (POS) system built for local eateries with shift management & cash reconciliation features.
-* 📈 **Crypto Quant Research** — Python-based backtesting models using GRU/LSTM networks for BTC trading strategy evaluation.
+* 🏬 **[Oh My Cashier!](https://github.com/zakiafuadi925-ops/oh-my-cashier)** — Terminal-shell themed (Oh My Zsh) F&B Point of Sale PWA with table management, split bills, and Android Capacitor pipeline.
+* 🌸 **[Siklusku](https://github.com/zakiafuadi925-ops/siklusku)** — Privacy-focused, 100% client-side menstrual cycle tracker built with vanilla JavaScript & Tailwind CSS.
+* 📈 **Crypto Quant Research** — Python backtesting engine using GRU/LSTM neural networks, ATR dynamic thresholds, and slippage simulation for BTC models.
 * 🎲 **WNI Monopoly** — Indonesian-themed Monopoly web application built with Svelte, Tailwind CSS, and Vite.
-* 📊 **Personal Finance Tracker** — Full-stack finance management app built with Next.js and Supabase.
+* 📊 **Personal Finance Tracker** — Full-stack personal finance application built with Next.js, Supabase PostgreSQL, and Recharts.
 
 ---
 
