@@ -69,7 +69,7 @@
 * 🎲 **[WNI Monopoly](https://monopoliwni-gas.vercel.app/)** — Indonesian-themed Monopoly web application built with Svelte, Tailwind CSS, and Vite.
 * 🥊 **[Math Boxing WEB](https://math-boxing-web.vercel.app/)** — Interactive real-time mathematical boxing game & logic challenge platform built with React, Vite, Express, and Supabase.
 * 📊 **[Personal Finance Tracker](https://personal-finance-tracker-rust-phi.vercel.app/auth)** — Full-stack personal finance application built with Next.js, Supabase PostgreSQL, and Recharts.
-
+* 🏡 **[Nama Living](https://nama-living.vercel.app/)** — Deskripsi singkat proyek (misal: Modern property listing & living space web platform built with React, Vite, and Tailwind CSS).
 ---
 
 <div align="center">
