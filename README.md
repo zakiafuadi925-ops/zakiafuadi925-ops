@@ -68,7 +68,7 @@
 * 📈 **Crypto Quant Research** — Python backtesting engine using GRU/LSTM neural networks, ATR dynamic thresholds, and slippage simulation for BTC models.
 * 🎲 **[WNI Monopoly](https://monopoliwni-gas.vercel.app/)** — Indonesian-themed Monopoly web application built with Svelte, Tailwind CSS, and Vite.
 * 🥊 **[Math Boxing WEB](https://math-boxing-web.vercel.app/)** — Interactive real-time mathematical boxing game & logic challenge platform built with React, Vite, Express, and Supabase.
-* 📊 **Personal Finance Tracker** — Full-stack personal finance application built with Next.js, Supabase PostgreSQL, and Recharts.
+* 📊 **[Personal Finance Tracker](https://personal-finance-tracker-rust-phi.vercel.app/auth)** — Full-stack personal finance application built with Next.js, Supabase PostgreSQL, and Recharts.
 
 ---
 
