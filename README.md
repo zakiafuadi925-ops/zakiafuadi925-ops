@@ -66,7 +66,7 @@
 * 🏬 **[Oh My Cashier!](https://github.com/zakiafuadi925-ops/oh-my-cashier)** — Terminal-shell themed (Oh My Zsh) F&B Point of Sale PWA with table management, split bills, and Android Capacitor pipeline.
 * 🌸 **[Siklusku](https://github.com/zakiafuadi925-ops/siklusku)** — Privacy-focused, 100% client-side menstrual cycle tracker built with vanilla JavaScript & Tailwind CSS.
 * 📈 **Crypto Quant Research** — Python backtesting engine using GRU/LSTM neural networks, ATR dynamic thresholds, and slippage simulation for BTC models.
-* 🎲 **WNI Monopoly** — Indonesian-themed Monopoly web application built with Svelte, Tailwind CSS, and Vite.
+* 🎲 **[WNI Monopoly](https://monopoliwni-gas.vercel.app/)** — Indonesian-themed Monopoly web application built with Svelte, Tailwind CSS, and Vite.
 * 📊 **Personal Finance Tracker** — Full-stack personal finance application built with Next.js, Supabase PostgreSQL, and Recharts.
 
 ---
