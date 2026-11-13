@@ -22,12 +22,18 @@
 
 ---
 
+<div align="center">
+  <img src="./metrics.svg" width="100%" alt="Zack's Terminal Metrics"/>
+</div>
+
+---
+
 <h3 align="center">🧪 Technical Focus & Core Skills</h3>
 
-* 💻 **Full-Stack Web:** Building modern, reactive web applications using **Next.js**, **React**, **Svelte**, **Node.js**, **PHP/Laravel**, and **Tailwind CSS**.
-* 📊 **Quant Research & ML:** Developing & backtesting algorithmic cryptocurrency trading models with **Python** (GRU/LSTM neural networks, ATR dynamic volatility thresholds, and slippage simulation).
-* 🗄️ **Database & Backend:** Architecting and optimizing relational & cloud data systems with **PostgreSQL**, **Supabase**, and **MariaDB**.
-* 🛠️ **Environment & Infrastructure:** Operating in terminal-centric Linux & Windows workflows utilizing **Git**, **Docker**, **VirtualBox**, and **Tailscale**.
+- 💻 **Full-Stack Web:** Building modern, reactive web applications using **Next.js**, **React**, **Svelte**, **Node.js**, **PHP/Laravel**, and **Tailwind CSS**.
+- 📊 **Quant Research & ML:** Developing & backtesting algorithmic cryptocurrency trading models with **Python** (GRU/LSTM neural networks, ATR dynamic volatility thresholds, and slippage simulation).
+- 🗄️ **Database & Backend:** Architecting and optimizing relational & cloud data systems with **PostgreSQL**, **Supabase**, and **MariaDB**.
+- 🛠️ **Environment & Infrastructure:** Operating in terminal-centric Linux & Windows workflows utilizing **Git**, **Docker**, **VirtualBox**, and **Tailscale**.
 
 ---
 
@@ -73,24 +79,28 @@
 <td width="50%" valign="top">
 
 #### 🏬 [Oh My Cashier!](https://oh-my-cashier.vercel.app/)
+
 Terminal-shell themed (`Oh My Zsh`) F&B Point of Sale PWA featuring table management, split bills, and Android Capacitor mobile pipeline.
 <br/>`PWA` `JavaScript` `Capacitor` `POS`
 
 ---
 
 #### 📈 [Crypto Quant Research](https://quanttradingsystems.vercel.app/)
+
 Python backtesting engine utilizing GRU/LSTM neural networks, ATR dynamic thresholds, and realistic slippage simulation for BTC models.
 <br/>`Python` `GRU/LSTM` `Quant` `Backtesting`
 
 ---
 
 #### 🎲 [WNI Monopoly](https://monopoliwni-gas.vercel.app/)
+
 Indonesian-themed digital Monopoly web game engineered for fast, responsive multiplayer sessions.
 <br/>`Svelte` `Tailwind CSS` `Vite`
 
 ---
 
 #### 🌸 [Siklusku](https://github.com/zakiafuadi925-ops/siklusku)
+
 Privacy-first, 100% client-side menstrual cycle tracker with zero external data tracking.
 <br/>`Vanilla JS` `Tailwind CSS` `Client-Side`
 
@@ -98,24 +108,28 @@ Privacy-first, 100% client-side menstrual cycle tracker with zero external data 
 <td width="50%" valign="top">
 
 #### 🥊 [Math Boxing WEB](https://math-boxing-web.vercel.app/)
+
 Interactive real-time mathematical boxing game & logic challenge PWA with cloud leaderboard integration.
 <br/>`React` `Vite` `Tailwind` `Supabase`
 
 ---
 
 #### 📊 [Personal Finance Tracker](https://personal-finance-tracker-rust-phi.vercel.app/auth)
+
 Full-stack personal cashflow & analytics dashboard with interactive visualizations and secure authentication.
 <br/>`Next.js` `PostgreSQL` `Supabase` `Recharts`
 
 ---
 
 #### 🏡 [Nama Living](https://nama-living.vercel.app/)
+
 Modern furniture & interior design business showcase platform built with clean, responsive UI architecture.
 <br/>`React` `Tailwind CSS` `Vercel`
 
 ---
 
 #### 🚀 [Explore More Repositories](https://github.com/zakiafuadi925-ops?tab=repositories)
+
 Check out my other experiments in PHP/MariaDB POS systems, Linux automation scripts, and web architectures.
 <br/>`Open Source` `Full-Stack` `Systems`
 
