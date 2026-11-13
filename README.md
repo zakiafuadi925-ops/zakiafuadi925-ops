@@ -1,16 +1,20 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Zack</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000FF,50:00D9FF,100:070B1A&height=120&section=header&text=Hi,%20I'm%20Zack&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+
   <p><b>Full-Stack Developer & Quantitative Trading Researcher</b></p>
 
   <p>
-    Building high-performance web applications, specialized POS solutions, and algorithmic trading models.
+    <i>Building high-performance web applications, specialized POS solutions, and algorithmic trading models.</i>
   </p>
 
-  <!-- Badges Kontak / Status -->
-  <a href="https://github.com/zakiafuadi925-ops">
-    <img src="https://img.shields.io/github/followers/zakiafuadi925-ops?style=social" alt="GitHub Followers" />
-  </a>
+  <p>
+    <a href="https://github.com/zakiafuadi925-ops">
+      <img src="https://img.shields.io/github/followers/zakiafuadi925-ops?style=for-the-badge&labelColor=070B1A&color=00D9FF" alt="GitHub Followers" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=zakiafuadi925-ops&label=Visitors&color=A855F7&style=for-the-badge&labelColor=070B1A" alt="Visitors Counter" />
+  </p>
+
 </div>
 
 ---
@@ -26,52 +30,71 @@
 
 ### 🛠️ Tech Stack Badges
 
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <b>Languages & Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,php,nextjs,react,svelte,tailwind&theme=dark"/>
+</p>
 
-#### Infrastructure & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <b>Infrastructure & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,git,linux,bash,vim,vscode&theme=dark"/>
+</p>
 
 ---
 
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zakiafuadi925-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zack's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiafuadi925-ops&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zakiafuadi925-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00D9FF&icon_color=A855F7&text_color=c9d1d9" alt="Zack's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiafuadi925-ops&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakiafuadi925-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakiafuadi925-ops&theme=tokyonight&hide_border=true&ring=00D9FF&fire=A855F7&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </div>
 
 ---
 
-
 ### 📌 Highlighted Projects
 
-* 🏬 **[Oh My Cashier!](https://oh-my-cashier.vercel.app/)** — Terminal-shell themed (Oh My Zsh) F&B Point of Sale PWA with table management, split bills, and Android Capacitor pipeline.
-* 🌸 **[Siklusku](https://github.com/zakiafuadi925-ops/siklusku)** — Privacy-focused, 100% client-side menstrual cycle tracker built with vanilla JavaScript & Tailwind CSS.
-* 📈 **[Crypto Quant Research](https://quanttradingsystems.vercel.app/)** — Python backtesting engine using GRU/LSTM neural networks, ATR dynamic thresholds, and slippage simulation for BTC models.
-* 🎲 **[WNI Monopoly](https://monopoliwni-gas.vercel.app/)** — Indonesian-themed Monopoly web application built with Svelte, Tailwind CSS, and Vite.
-* 🥊 **[Math Boxing WEB](https://math-boxing-web.vercel.app/)** — Interactive real-time mathematical boxing game & logic challenge platform built with React, Vite, Express, and Supabase.
-* 📊 **[Personal Finance Tracker](https://personal-finance-tracker-rust-phi.vercel.app/auth)** — Full-stack personal finance application built with Next.js, Supabase PostgreSQL, and Recharts.
-* 🏡 **[Nama Living](https://nama-living.vercel.app/)** — Deskripsi singkat proyek (misal: Modern property listing & living space web platform built with React, Vite, and Tailwind CSS).
+<table>
+<tr>
+<td width="50%">
+
+* 🏬 **[Oh My Cashier!](https://oh-my-cashier.vercel.app/)**
+  <br>Terminal-shell themed (Oh My Zsh) F&B Point of Sale PWA with table management, split bills, and Android Capacitor pipeline.
+
+* 🌸 **[Siklusku](https://github.com/zakiafuadi925-ops/siklusku)**
+  <br>Privacy-focused, 100% client-side menstrual cycle tracker built with vanilla JavaScript & Tailwind CSS.
+
+* 📈 **[Crypto Quant Research](https://quanttradingsystems.vercel.app/)**
+  <br>Python backtesting engine using GRU/LSTM neural networks, ATR dynamic thresholds, and slippage simulation for BTC models.
+
+* 🎲 **[WNI Monopoly](https://monopoliwni-gas.vercel.app/)**
+  <br>Indonesian-themed Monopoly web application built with Svelte, Tailwind CSS, and Vite.
+
+</td>
+<td width="50%">
+
+* 🥊 **[Math Boxing WEB](https://math-boxing-web.vercel.app/)**
+  <br>Interactive real-time mathematical boxing game & logic challenge platform built with React, Vite, Express, and Supabase.
+
+* 📊 **[Personal Finance Tracker](https://personal-finance-tracker-rust-phi.vercel.app/auth)**
+  <br>Full-stack personal finance application built with Next.js, Supabase PostgreSQL, and Recharts.
+
+* 🏡 **[Nama Living](https://nama-living.vercel.app/)**
+  <br>Modern property listing & living space web platform built with React, Vite, and Tailwind CSS.
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
   <p><i>"Data without analysis is just noise. Efficient code is the bridge to clarity."</i></p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:00D9FF,100:070B1A&height=100&section=footer" width="100%"/>
 </div>
